@@ -1,0 +1,9 @@
+gym
+
+tqdm
+
+numpy
+
+docker
+
+textworld
